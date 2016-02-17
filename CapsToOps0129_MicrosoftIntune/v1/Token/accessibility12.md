@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Las direcciones de Internet pueden variar, de modo que es posible que no pueda conectarse al sitio o sitios web indicados en este apartado.</Token>

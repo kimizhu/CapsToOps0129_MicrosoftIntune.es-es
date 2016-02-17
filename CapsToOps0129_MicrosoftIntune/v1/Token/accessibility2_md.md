@@ -1,0 +1,1 @@
+Características de accesibilidad de Windows

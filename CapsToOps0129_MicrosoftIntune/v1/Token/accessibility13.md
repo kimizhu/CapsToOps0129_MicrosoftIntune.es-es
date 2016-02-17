@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Si tiene dificultades auditivas, dispone de acceso total a los servicios de atención al cliente y soporte técnico de Microsoft a través del servicio de teléfono de texto (TTY/TDD):</Token>
