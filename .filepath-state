@@ -1,0 +1,886 @@
+{
+  "0215258130506ab867bf9795be23b4f111613c6d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\App-Feedback-Form.png"
+  ],
+  "9fd69838db9ccdc5e8f09c27cddaaa4d3998c175": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\App-Lifecycle.png"
+  ],
+  "76a8a2feec17e42928f54b10b521594f88b66b63": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\Apps_without_MAM_policies.png"
+  ],
+  "38ade15a8b404d4c015427b91d43eb355df89c28": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\Apps_with_MAM_policies.png"
+  ],
+  "f39d4bc54eaf9e57d461f92a5aeeccdeff9b0790": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\ConditionalAccess4.png"
+  ],
+  "495a0e184d5b0f7d60292dd23b38e57fdad93e87": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\ConditionalAccess8-1.png"
+  ],
+  "6dc6d327b445e37e8e0a9f52afd82c3342c3101a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\ConditionalAccess8-2.png"
+  ],
+  "df3cc726d31e8ade544b9de3330fbec14cc3db8f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\ConditionalAccess8-3.png"
+  ],
+  "f7f76c58e41540ca17bbe57c169a514e64122f44": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\ConditionalAccess8-4.png"
+  ],
+  "7274fe1fb14719810b86c249a5577ac9fb078d51": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\ConditionalAccess8-5.png"
+  ],
+  "4f3c1dba5f1026b42852909c0bcd8f6414523578": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\ConditionalAccess8-6.png"
+  ],
+  "ce6388cbe05d09a31097303ce83f16f3638beb1c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\Intune-App-SDK-iOS---copy-bundle-resources.png"
+  ],
+  "f7cf545dd7f51df5f9b4b1c3a382d17f3eb3bd7c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\Intune-App-SDK-iOS---keychain-sharing.png"
+  ],
+  "7a9fdd79fa1ab5967023a80e1d0e317128667834": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\Intune-App-SDK-iOS---linked-frameworks-and-libraries.png"
+  ],
+  "1b8c364e396cb2f1c54c21971a41e4dd65cd3322": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\MAM_BYOD_November.png"
+  ],
+  "7f6e2f7854074424054da297c533382e242f5a1e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\MAM_ManagedDevices_November.png"
+  ],
+  "f4d5c5fef97041f56707e5ef5b29d189f28c283a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\Microsoft-Connect.png"
+  ],
+  "357558a36a885fc6c50279d11801440587fe3676": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Image\\WPCertReqs.png"
+  ],
+  "1f04ca268c5fc8669102a61ce243d107f7f2cce5": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility1.md"
+  ],
+  "696afdb33b3539746abcc89d588f0fa72ec1a68d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility10.md"
+  ],
+  "bd86629f830d9cea39e290305cd10032efb8cc55": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility10_md.md"
+  ],
+  "18bb09579287c7c558485362790a89212fdead13": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-a.md"
+  ],
+  "3d58defb5b2334d6b039085ad024d097fb3629e0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-a_md.md"
+  ],
+  "ceba79bcc1d750e82a97db2ecd4e267b7005430d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-b.md"
+  ],
+  "9f2c5a213db0c9124bbec8641f0d860f9a2225fe": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-b_md.md"
+  ],
+  "ca8f47caac0f2a1744ca4f85426bb068faad40c8": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-c.md"
+  ],
+  "c58380143deb78c0f9405620f2ef78bffd072441": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-c_md.md"
+  ],
+  "82375cf4028a8e505aaed37746ee881784655804": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-d.md"
+  ],
+  "04a9cad3a03187390da0393af29c7abf25307271": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-d_md.md"
+  ],
+  "aa1f82a76f57432c03ed4436aa3575da8d24e93d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-e.md"
+  ],
+  "2e3ab0999751e763042f02f019941b6818c4ebe1": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-e_md.md"
+  ],
+  "f7b4ab09cc4894e1a807b7f80c08d35e62593731": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-f.md"
+  ],
+  "6722b74ba9ab0dcb5a0fb74121f4c2c53b44a9f3": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11-f_md.md"
+  ],
+  "d2d2c4f3fbe181d1d8adcec1667b30b3a1b7719d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11.md"
+  ],
+  "b6835d4d9c12000dbf0c7cff2f1468832aeca9ad": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility11_md.md"
+  ],
+  "bf20d3df144eed21166ea7235e9e3f1a45cbc7cd": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility12.md"
+  ],
+  "6a53bb33f107679e333a9728c8e709f47a2a0cbe": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility12_md.md"
+  ],
+  "d64ab436a4fd522c988668574a966d76c2ed7bb6": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility13.md"
+  ],
+  "dc9a83c3b47b21b3a38bfa737ad97aa992eb11a6": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility13_md.md"
+  ],
+  "34b72160db4cc4964cecd827a3a564001a57e2e2": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility14.md"
+  ],
+  "a94c8709ede3ec7fbfced448ab01b04dd7352371": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility14_md.md"
+  ],
+  "abe200b5848d30d96b4cddf5a01b021b3ab5dac9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility15.md"
+  ],
+  "d589c3627a9794bcaaf3f92c795576604374af7a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility15_md.md"
+  ],
+  "9052b406bb1f59ee9e9d493b21756da8ea385475": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility16.md"
+  ],
+  "74eb5b1b7f0162c783145dfd7e1134b794448176": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility16_md.md"
+  ],
+  "004701452c79f4fb9996428c23597ae459da71d9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility17.md"
+  ],
+  "ec300e64342ef3c9f5e340088eee2046e1897bb8": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility17_md.md"
+  ],
+  "1b484f283bacee97d6a181351aeef2a6366d0943": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility1_md.md"
+  ],
+  "43d7946bc8365fd4e638ecaa6c1548d2febaf06c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility2_md.md"
+  ],
+  "def903812590af80e8c3368a1849c03f826ddd1f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility3.md"
+  ],
+  "4a7accd0ebf4e231104a6d61faa68bf4a03fe7ff": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility3_md.md"
+  ],
+  "5f5570d77261f22d8f4e391a5fb03feb99c8d8a0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility4.md"
+  ],
+  "2da59dc5d6bae651dc0c89335ab2c2ad0a127b5d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility4_md.md"
+  ],
+  "f410f8314e8f5c884080b71f6146cedb4eadfb56": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility5_md.md"
+  ],
+  "f700ddfc5a94d6f5100dc0b5ded2454680b382af": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility6.md"
+  ],
+  "2484ac3a7dfa7f5a6bb52e430a28c2ec25d87a0f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility6_md.md"
+  ],
+  "18d81ad7f0036b5e013b7b1471d670e26926c6bf": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility7.md"
+  ],
+  "1ee43f463d7f9fbaab219c73e8ed25208b14c35d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility7_md.md"
+  ],
+  "d3bededd9523a98ca908a50b3eedf6b407cbe21b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility8.md"
+  ],
+  "7933c42f82d8dfedac952871eaa717378bcfe12e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility8_md.md"
+  ],
+  "888a5084feddbeacccceddd681ba38b5c2997816": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility9.md"
+  ],
+  "02114bbbfd235a8f84fb73880c8815583a1ca11e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\accessibility9_md.md"
+  ],
+  "73406a64180cec85ee647b0d9d0040ba7454f5ad": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\cm5long.md"
+  ],
+  "85880c99684adf143d786a2a492500c45e97d35b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\cm5long_md.md"
+  ],
+  "964469fffb8bdb3173c03bd460c68e1ba0ea4074": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\cm5short.md"
+  ],
+  "b70ed7a9f0369fdbe357006f156325aaaaa554da": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\cm5short_md.md"
+  ],
+  "d71edd347bbd5ea3371e35b5e890fc07b8843504": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\cmshort.md"
+  ],
+  "506d830e0cbc622ea3c0637656d5c60c9a6b38f8": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\cmshort_md.md"
+  ],
+  "684e5f2e2abf80fc14b08811f816dfc434f22fdf": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\CPEnrollmentTermsAndConditions.md"
+  ],
+  "3912b65a31e52de663cbbf07329e7c92b88f604a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\CPEnrollmentTermsAndConditions_md.md"
+  ],
+  "ca0e89445141e7959c462b98e7243553c6ca72e9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\epshort.md"
+  ],
+  "221fc3b3eee36369257f4c89f59e7f42b893fac7": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\epshort_md.md"
+  ],
+  "eec4429fa1f423668cea654543380ac880e2d0ef": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\firstref_client_7.md"
+  ],
+  "8d825513a8fcd30c0e610859192ef20fa89ebad2": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\firstref_client_7_md.md"
+  ],
+  "13ff460ac519f9cd49ce1cf25a819cea78e2772f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\firstref_vista.md"
+  ],
+  "da178e2adfef6403babbf2628c7511519b7833d6": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\firstref_vista_md.md"
+  ],
+  "d9fdbbe0d10fcd31299c021749df2ea6dc55d199": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\Intune-feedback-footer.md"
+  ],
+  "7541052b56e8a04bca42cc6721a4f92814f8db96": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\longhornshort.md"
+  ],
+  "2504575346cece1887f998d2d76408a38af5141e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\longhornshort_md.md"
+  ],
+  "fb4c7817eac9a4569076492c3d678228adfa9cdf": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\nextref_client_7.md"
+  ],
+  "5a88e825af76116076861b06d70cbaa235c21980": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\nextref_client_7_md.md"
+  ],
+  "402065bc55a9ab0d65c464cf0f29bd75c40dfb7a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\nextref_server_7.md"
+  ],
+  "4cbb5695d57f7e07523eab7e4db7a7c8f05a0bcc": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\nextref_server_7_md.md"
+  ],
+  "0e0d453a927f125a58d1b307ba93e97993ed8a9c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\nextref_vista.md"
+  ],
+  "44e64345682fc26ddae6f1bc70290bd2bf84369d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\nextref_vista_md.md"
+  ],
+  "20a783276163d706389339c9aac1f842a67b9530": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\sccmshortname_md.md"
+  ],
+  "fc2812773cc47aea0a10db21ce53670c3a0dd87c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\sco_dm_2.md",
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_firstref.md"
+  ],
+  "1202b6045bb557987046393241d45a6c4e1a9be5": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\sco_dm_2_md.md",
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_firstref_md.md"
+  ],
+  "14b0d8220b2f0ea1bbcc86aad21a64a532db5d96": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\win8RT_client_1.md"
+  ],
+  "9a09a5e949fc4aa477fdf00e91f5451d9acf4dd9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\win8RT_client_1_md.md"
+  ],
+  "111fdd363b01584ec5959bc0f9e745201fa2b947": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\win8_client_2.md"
+  ],
+  "6517856f8c3a3fda3ae28305a05d127f0e1bdb97": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\win8_client_2_md.md"
+  ],
+  "0a1bed55d2b1fd0a78b7196e1b37e4b7f118cc0f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\win8_server_2.md"
+  ],
+  "159bb0322c76672065a0b50b0eb496853e0aca0a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\win8_server_2_md.md"
+  ],
+  "1b61fbcbea4e11f6ee085a79b775abe59e0f20b4": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\winblue_client_2.md"
+  ],
+  "9fe8c734d18c33e1fe587ed88ac86891c9413013": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\winblue_client_2_md.md"
+  ],
+  "a99ca498e1303515f4e5c74740e63fb45ad71cd7": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\winblue_server_2.md"
+  ],
+  "4def91cac8221f8ad360e97e06d2214860662377": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\winblue_server_2_md.md"
+  ],
+  "b657082a99f111bdaf82c0afa9b20d98443ccf70": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\winblue_winrt_2.md"
+  ],
+  "4ad13f0515100ce8dc2558a861377f09f3887d2e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\winblue_winrt_2_md.md"
+  ],
+  "c375f75a25da61d09e7fd14f9526d5ba2c045399": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\windowsvista.md"
+  ],
+  "7dc44c44b7a030798f3e511dc741ab9400f590ae": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\windowsvista_md.md"
+  ],
+  "737f108760e66f61e788bd872266f7e0199efbd9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\winphone8_client_1.md"
+  ],
+  "09b5ddb4ab8b7880d4ad3ff21764191b0a0a8531": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\winphone8_client_1_md.md"
+  ],
+  "484386cefe4984efd6277a56d381ba29353839ca": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_adminconsole.md"
+  ],
+  "252a2769649225755721725302eaca55ce4ffbe9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_adminconsole_md.md"
+  ],
+  "d9073208e4992aae9e8c126ec49a789c6951626c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_exch_2_md.md"
+  ],
+  "a380c85a1c5b7e47d84afea0dc307366c6228a20": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_icp_1.md"
+  ],
+  "6fd22fb222601542daaa27f6952b5fd889389a9d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_icp_1_md.md"
+  ],
+  "bce3f1e2a789f94fb10243094b3d779fde464233": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_icp_2.md"
+  ],
+  "c3427869b1071ba8d679362c29b3918c1b65cf70": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_icp_2_md.md"
+  ],
+  "abe8d8c9c6a458e6695a008b37b6339f354c0911": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_iwportal_1.md"
+  ],
+  "f034b6b5261956e629cc7368e51c7dbb1d355ba9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_iwportal_1_md.md"
+  ],
+  "a135ff34ca5c676bc4ee7640fa49d7e95da4170e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_iwportal_2.md"
+  ],
+  "a02631ded74ee9e772dae5142675a9493b653577": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_iwportal_2_md.md"
+  ],
+  "eb4b64a8db5b5bb2eea586ca46d0c3f6da4eac88": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_nextref.md"
+  ],
+  "37fd3548a500ea545ec28de8cea465e3243dac10": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_nextref_md.md"
+  ],
+  "965b55d128583da2cf33b127270a5216ce74444b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_publisher_1.md"
+  ],
+  "a5449ddcc028ac379a4e6bbaff0432e8968879ec": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_tools.md"
+  ],
+  "58643537b9c0a34ac93bf6af99240b6e3469ab2a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wit_tools_md.md"
+  ],
+  "e9096a16bdd11b30f840ceba6f1cb16bd4cf25e8": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wps_2.md"
+  ],
+  "7aec405442c5cb6c886214b18022f4f9d2af5cbf": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Token\\wps_2_md.md"
+  ],
+  "efbd0cd5501d003a3f420e83e054c1ccf7352d5a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Acceptable-Use-Policy-for-Microsoft-Intune.md"
+  ],
+  "4d906cb27c41e5a1368c32c1efd82b4fcc9f902c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Accessibility-Features-of-Microsoft-Intune.md"
+  ],
+  "616f80a1a7a532d6393590168405937d3137b233": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Accessibility-for-People-with-Disabilities.md"
+  ],
+  "3206557cdc0b72d3e2a192744145b51eb1359069": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Accessibility-Products-and-Services-from-Microsoft.md"
+  ],
+  "037df4883514bb0d674bbb134e2bfa7d5a506677": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Activate-Your-Product-Key.md"
+  ],
+  "f310747ca2996eb4259272221ad7009dea9d0691": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Android-configuration-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "e4f2769b468993e1dae9f25356fcb3738dbfc8db": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Android-custom-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "125561e6f1683d887aea7cc37834aa2eace97290": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Architecture-guidance-for-protecting-company-email-and-documents.md"
+  ],
+  "c959da2a53984ef7cc2d74a0628d5615a4ca54f9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Cancel-my-subscription-for-Microsoft-Intune.md"
+  ],
+  "88d452dd9a620da86dc683613b4676372e1bfc75": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Common-Windows-PC-management-tasks-with-the-Microsoft-Intune-computer-client.md"
+  ],
+  "f5d6903ea1300626502033b153385e9902335bd4": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Company-Portal-app-not-supported.md"
+  ],
+  "90220a778c5009edc35e404cf624d265ba7d4c3c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Company-Portal-Frequently-Asked-Questions.md"
+  ],
+  "a3ec7abaa2d6c381d7c705763f04c9723691ea8b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Configure-access-to-corporate-email-using-email-profiles-with-Microsoft-Intune.md"
+  ],
+  "340da5e05c93022c46e1ecde580ac4b090fa776d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Configure-and-deploy-mobile-application-management-policies-in-the-Microsoft-Intune-console.md"
+  ],
+  "c6155d01e04a01102775d904604854d31ecb7997": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Configure-and-manage-devices-with-Microsoft-Intune.md"
+  ],
+  "14f1358340ae47355721c47919e73e54544ee62d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Configure-apps-with-Microsoft-Intune.md"
+  ],
+  "7711095a6ee7d920d654953af613d7d00cbec1b0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Configure-apps-with-mobile-app-configuration-policies-in-Microsoft-Intune.md"
+  ],
+  "b124103487320893ff9dd89204d2617294ba1dd9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Configure-data-loss-prevention-app-policies-with-Microsoft-Intune.md"
+  ],
+  "c4888a6ecf09bd6da405e5da852a9e7b3ee4fc46": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Contact-Assisted-Phone-Support-for-Microsoft-Intune.md"
+  ],
+  "cbe138a32bb4fb3fbfe07ad7a3c78212941d0a88": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Control-what-admins-can-see-in-the-Microsoft-Intune-admin-console.md"
+  ],
+  "8704a62f454b67247c893e31eb23773a62751fcf": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Create-and-deploy-mobile-app-management-policies-with-Microsoft-Intune.md"
+  ],
+  "ceb812b41c1c83cda570061df37e853e14efb97d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Custom-URI-settings-for-Windows-10-devices.md"
+  ],
+  "30579675012ac5fa536c276634f07f20fffce705": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Deleted-topic.md"
+  ],
+  "01fbdf7aa16cdbddec874bb964294e67a99e9b38": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Deploy-and-configure-apps-with-Microsoft-Intune.md"
+  ],
+  "1eb2318ffec5d91550955049bfd6791f514c2888": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Deploy-apps-to-mobile-devices-in-Microsoft-Intune.md"
+  ],
+  "8832e8bfc9a4ec94864d4faeb976bb7854a6d6a2": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Deploy-apps-to-Windows-PCs-in-Microsoft-Intune.md"
+  ],
+  "2ca4987c19d05be7ae171c5051d5b5de1dc7ca36": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Documentation-for-Microsoft-Intune--1-.md"
+  ],
+  "90dd8ff74f9a6328f1d7454c2380f2161724c9c0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Documentation-for-Microsoft-Intune--test-1-.md"
+  ],
+  "b2c071fc7ffbef3de495abf1ed090e40ff50fd61": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Documentation-for-Microsoft-Intune.md"
+  ],
+  "73960a7d25098ff3755cf865ebb97764c5ae4ba8": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Enable-access-to-company-resources-using-certificate-profiles-with-Microsoft-Intune.md"
+  ],
+  "f4fc78447f56ae17e42110deb4756229f4d58fce": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Enable-access-to-company-resources-with-Microsoft-Intune---deleted.md"
+  ],
+  "912a31633a5d18a60100d96043fa063ce6e3691d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Enable-access-to-company-resources-with-Microsoft-Intune.md"
+  ],
+  "b3a4cd390c6529e2416d9c286e90b1524bce49ce": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Enable-mobile-device-enrollment-with-the-Microsoft-Intune-Account-Portal.md"
+  ],
+  "b723c24acc8b16f13a75758756f9548bc51687d0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\End-user-experience-for-apps-associated-with-Microsoft-Intune-mobile-app-management-policies.md"
+  ],
+  "5d9d3ae0ded279ec452becd71217c30732c38cda": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\End-user-experience-of-conditional-access.md"
+  ],
+  "885de0a1068a2e4b224f7b264c05dfd2795a50ac": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Enroll-corporate-owned-devices-with-the-Device-Enrollment-Manager-in-Microsoft-Intune.md"
+  ],
+  "28d5226f612e0529497437855880cd0390b048e7": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Enroll-corporate-owned-iOS-devices-in-Microsoft-Intune.md"
+  ],
+  "22d2fa06b88f9088c80226aba503e4575403234f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Enroll-your-device-in-Microsoft-Intune.md"
+  ],
+  "b09038e636eb5297bdc9e3c68a48b8c341532dc8": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Exchange-ActiveSync-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "0c687d449d70febafff04ae1c9e14ae409a1424b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Fix-issues-with-mobile-device-enrollment.md"
+  ],
+  "a75ce1586fd7a05cfb1f700f15873488e2331b2b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Frequently-asked-questions-for-Microsoft-Intune.md"
+  ],
+  "7dcd4fc6049c21f137a6886f95df9505652749df": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Get-notified-by-Microsoft-Intune-alerts.md"
+  ],
+  "5c278937be8c4a2b940fc00f40270989daa72d4a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Get-ready-to-enroll-devices-in-Microsoft-Intune.md"
+  ],
+  "1b91a33de730fe958dadd098511e3995a03d37d0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Get-started-with-a-30-day-trial-of-Microsoft-Intune.md"
+  ],
+  "2c6507f6ff6477718f797c261160b498376f8c6c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Get-started-with-a-paid-subscription-to-Microsoft-Intune.md"
+  ],
+  "415865ec70823af9562b910682b5b669ddc41eda": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Get-started-with-mobile-app-management-policies-in-the-Azure-portal.md"
+  ],
+  "f0e40483981df9717efc8e252f1d505ba496cfd0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Getting-Started-With-the-Microsoft-Intune-App-SDK.md"
+  ],
+  "8170c78907a8e7a36f1f4e6138f22119a15468bd": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Help-for-Microsoft-Intune-Partners.md"
+  ],
+  "031aceb52f4de0772e1b4f54bd74cfe498b111e0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Help-protect-iOS-devices-with-Activation-Lock-bypass-for-Microsoft-Intune.md"
+  ],
+  "5da482ecf3e0d00a5357081db034e5c0a15109ec": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Help-protect-Windows-PCs-using-Windows-Firewall-policies-in-Microsoft-Intune.md"
+  ],
+  "2d5126603ac782813b00a4e96efa8be215289c2f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Help-protect-your-data-with-remote-wipe,-remote-lock,-or-passcode-reset-using-Microsoft-Intune.md"
+  ],
+  "5edc884a9fc22f1f59c1b8ba26e49557da31e9cf": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Help-secure-Windows-PCs-with-Endpoint-Protection-for-Microsoft-Intune.md"
+  ],
+  "40b5a35a07208feff61df401d1a130cc60d2f503": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Help-users-connect-to-company-networks-using-Wi-Fi-profiles-with-Microsoft-Intune.md"
+  ],
+  "68d45c67e8f54a04d0bf1dd216ca69755b7d00d8": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Help-users-connect-to-their-work-using-VPN-profiles-with-Microsoft-Intune.md"
+  ],
+  "fff13d5f00654517ce1e1c708b884a619173458f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Help-using-your-mobile-device-at-work.md"
+  ],
+  "91f1ad9fa3e5da48e67f6010d44293872bc5cd06": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Help-with-iOS-enrollment-errors.md"
+  ],
+  "3988329dc4e279dc0a9c3ad0281748b47d428856": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\How-to-encrypt-your-Android-device.md"
+  ],
+  "9fa2a0bf3867ee085a0f872c9366c83b893e81b4": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\How-to-encrypt-your-Windows-device.md"
+  ],
+  "a4dabc914f846a4beb96342809569f45d61ce914": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\How-to-enroll-your-device-in-Microsoft-Intune.md"
+  ],
+  "5e0b422c890b02e5668eb6d74a7e566ea0d79eb9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\How-to-get-support-for-Microsoft-Intune.md"
+  ],
+  "2a22605931bac6b32a11b20c6ff578b1ae24089e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\How-to-reconnect-a-compromised-Android-device.md"
+  ],
+  "a6cfeb7beefb59cf877b381164ecbfcbeefb5c48": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\How-to-reconnect-a-compromised-iOS-device.md"
+  ],
+  "881e492e36a84560996d8b39641c2dd9db9dbd4e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\How-to-set-the-password-on-your-Android-device.md"
+  ],
+  "66aff2c957936ce88b33769f66baa6489f364aeb": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\How-to-set-the-period-before-your-Android-device-is-locked.md"
+  ],
+  "eb05a7115c8d0680a22bc9b445355626a1cf823e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Install-the-Windows-PC-client-with-Microsoft-Intune.md"
+  ],
+  "e7953bf8056d10e17f761d576a1001963f117a72": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Introduction-to-Microsoft-Intune--test-.md"
+  ],
+  "09a10f75ab603989cdcc095e2b3ece891e40635d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Introduction-to-Microsoft-Intune.md"
+  ],
+  "5088d9863b5e75e0788b643d89486c4604229433": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\iOS-configuration-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "00ebfc712e8d262a0fceef1c0595b297f8286e30": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\iOS-custom-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "159f599aa557745fb0bcea2d48fe5bb1add54b8a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Keep-Windows-PCs-up-to-date-with-software-updates-in-Microsoft-Intune.md"
+  ],
+  "51f73936517012454f0007a62a318ec378ac2557": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Learn-how-to-deploy-a-solution-for-protecting-company-email-and-documents.md"
+  ],
+  "77397bfa5a8df41a71a628a77c87ad151965bccb": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Legal-Information.md"
+  ],
+  "ae93fff3f0607b444ff28684848e98735449ea9d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Mac-OS-X-configuration-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "053c731127d2124de1bac5df84cb73e4d0dcfb5d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Mac-OS-X-custom-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "3197f33fe6c264892365fe876d34733433a563ac": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Maintain-Microsoft-Intune.md"
+  ],
+  "c9b5a500fc495774aaad02abb96ae06b087f9ba2": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Manage-access-to-email-and-SharePoint-with-Microsoft-Intune.md"
+  ],
+  "048a81578592b6354750529fc4487ef1f94a2369": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Manage-alerts-in-Microsoft-Intune.md"
+  ],
+  "c54d89d6dda1c9285407249b7f88dd52d4816ad8": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Manage-device-compliance-policies-for-Microsoft-Intune.md"
+  ],
+  "6e54a463da63e6e93bad38e3284f128dc94b281b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Manage-email-access-with-Microsoft-Intune.md"
+  ],
+  "0edb87b4bb8ded2c9444b8253e538d459be57def": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Manage-Internet-access-using-managed-browser-policies-with-Microsoft-Intune.md"
+  ],
+  "376dc31dce9eb003564c8af9fb731a00f36d6d17": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Manage-license-agreements-for-Windows-PC-software-in-Microsoft-Intune.md"
+  ],
+  "a3fed91091960a280dbde12fb76eed6b24a965fc": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Manage-settings-and-features-on-your-devices-with-Microsoft-Intune-policies.md"
+  ],
+  "de9e934a507b798b33d8c19780f1be796a025f8b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Manage-SharePoint-Online-access-with-Microsoft-Intune.md"
+  ],
+  "4f0c575a51befbd66261794604b02c72aca49db9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Manage-Windows-PCs-with-Microsoft-Intune.md"
+  ],
+  "a39e5e84dcfe56b1f0faa4cf8092cf3fafed438d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-apps-you-can-use-with-Microsoft-Intune-mobile-application-management-policies.md"
+  ],
+  "0533f44cf211af7b54cd0431ee09d84254f01114": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Azure-Authenticator-app-deployment.md"
+  ],
+  "428af7a7cd18236ae39aba06c38699dcac47d58c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-App-SDK-for-Android-Developer-Guide.md"
+  ],
+  "02c2d4dec1284c7950286b809742d25eab20e02c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-App-SDK-for-iOS-Developer-Guide.md"
+  ],
+  "27f2a766b4ae97c6b8010884ab6c4ba5fe5a2574": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-App-SDK-Frequently-Asked-Questions.md"
+  ],
+  "2f9b4598e007c0fd113cd9f62000016f07430230": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-App-SDK.md"
+  ],
+  "077928aad8cce2627e6fea789192dccc32749da3": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-Company-Portal-Application-License-Terms.md"
+  ],
+  "04636251fa8dbc980df6d6bf22e53770a4b348f4": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-Company-Portal-for-Windows-Phone-Application-License-Terms.md"
+  ],
+  "dc0a9bb93ada14f987bc5b89ec1d04d688ddcfe3": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-features.md"
+  ],
+  "061f72431ad1655058be942393a282247b1f204a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-Managed-Browser-for-iOS.md"
+  ],
+  "11c7742c9dfbec174592d8154ee05dcfb66baf92": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-mobile-app-management-policies-and-iOS-Open-In.md"
+  ],
+  "28a8b367e8adc2b43b4958961bbc421cf9a743b8": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-policy-settings-reference.md"
+  ],
+  "84e97a67f591d30647081887c1df3983dfb2967b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-Privacy-Statement.md"
+  ],
+  "da5a12b7be66774d2e368f631584bddb07162d42": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-reports.md"
+  ],
+  "438875e3ce212c80593abcb0ff0bdded773685f4": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Microsoft-Intune-Service-Description.md"
+  ],
+  "b75a6308254385e6b79515b09064445187271ccf": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\MICROSOFT-SOFTWARE-SUPPLEMENTAL-NOTICE.md"
+  ],
+  "fa8c9755c1db02ce9cd15578eaa687ef0ef9de7e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Mobile-device-management-capabilities-in-Microsoft-Intune.md"
+  ],
+  "ac94282cb561024d660785796ecdfeaf3a2bdb97": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Mobile-device-management-with-Exchange-ActiveSync-and-Microsoft-Intune.md"
+  ],
+  "7046f6e869b2ef357d4758929804cc7e8fb2b15d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Mobile-device-security-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "afe4767b7ee504bd10b72fc4fd673905302f3099": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Monitor-mobile-app-management-policies-with-Microsoft-Intune.md"
+  ],
+  "e35f5b07b092463c291da030a454b12ef1298e11": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Monitoring-and-reports-with-Microsoft-Intune.md"
+  ],
+  "8a0e59d46b883ad298b71a73a94e5b4f3cb92c5b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Move-from-a-Microsoft-Intune-free-trial-to-a-paid-subscription.md"
+  ],
+  "e2151740437be038b149fb98f4789613a3ed294d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Network-infrastructure-requirements-for-Microsoft-Intune.md"
+  ],
+  "2338049411e62d73ecaf959cd995fbc775b9f59f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Overview-of-the-Microsoft-Intune-App-SDK.md"
+  ],
+  "435f4304f17e2146d847042df4f9b72abac6a22a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Plan-for-app-deployment-in-Microsoft-Intune.md"
+  ],
+  "11a389a6d752877a4b6791e125bd4d8484b13ee0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Prepare-Android-apps-for-mobile-application-management-with-the-Microsoft-Intune-App-Wrapping-Tool.md"
+  ],
+  "1bab61ad79d27f1307307f77390cc31f42ba6ec0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Prepare-iOS-apps-for-mobile-application-management-with-the-Microsoft-Intune-App-Wrapping-Tool.md"
+  ],
+  "be330e274624553a4f9890225c2686b4bcc8e49c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Privacy-Statement.md"
+  ],
+  "81f2ea3f3544de132a8d73cd9762a5f0143e3470": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Protect-data-and-devices-with-Microsoft-Intune.md"
+  ],
+  "9f83a53955b959d7dfa7bfc69840f32166474ea6": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Protect-Windows-devices-with-multi-factor-authentication.md"
+  ],
+  "6d38a2a4051ae089d2eae1d90d84414bd1f78b1e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Real-world-solutions-to-help-you-manage-mobile-devices.md"
+  ],
+  "76ec96baf291eb6975d16824bcc603344589e82c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Reference-for-Tenant-Administrator-accounts-for-Microsoft-Intune.md"
+  ],
+  "303dbf93e7c828a35772fab32200bc55ec02875c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Reference-for-the-Microsoft-Intune-administrative-consoles.md"
+  ],
+  "13a0037f02c303b52d9bb2b7f2cc1e1ae42b507e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Release-notes-for-Microsoft-Intune.md"
+  ],
+  "503f068d8771cf1ab5c30565a698be608eb21f67": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Remote-Assistance-via-Microsoft-Easy-Assist.md"
+  ],
+  "492bdb80524afe499c685e6f5c69e0136f99b7f0": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Resolve-GPO-and-Microsoft-Intune-policy-conflicts.md"
+  ],
+  "6ae837c85e2b64a3daaef3bbd90d2f1a1348d8ea": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Resources-to-help-you-solve-problems-during-setup-of-Microsoft-Intune.md"
+  ],
+  "ba9b3c17295080c2804ee5a98e3ef7f0f33a590e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Retire-apps-using-Microsoft-Intune.md"
+  ],
+  "c559a518c895e8926b7d81751dfdb920b985fdd6": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Retire-data-and-devices-from-Microsoft-Intune-management.md"
+  ],
+  "64b8fe64877f7f2d43c23f07c8db412ca8d604e4": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Set-mobile-device-management-authority-and-configure-Microsoft-Intune.md"
+  ],
+  "364a9acb2ae84aee33f42439ecb5ba670e88d9e9": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Set-up-Android-management-with-Microsoft-Intune.md"
+  ],
+  "929563ee246cb7bc2200cda2dc66224c31d80660": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Set-up-iOS-and-Mac-management-with-Microsoft-Intune.md"
+  ],
+  "a585e145fb7a9dd90be41a795de8e8ab48830b4d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Set-up-Windows-device-management-with-Microsoft-Intune.md"
+  ],
+  "5619d38630955bb8d1c234e3567e37df46e85143": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Set-up-Windows-Phone-management-with-Microsoft-Intune.md"
+  ],
+  "ee4575bdf02920aaae0040f226340fe8787c69e8": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Sign-In-Privacy-Statement.md"
+  ],
+  "60061be09481e28985673b5c2405f322524e9f68": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Start-using-Microsoft-Intune--test-.md"
+  ],
+  "432cc0c89100eb0214b2f2b9204de3ec922e4239": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Start-using-Microsoft-Intune.md"
+  ],
+  "3913ab7815e2e28f8fbded45630f150f1ddd7ccf": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Technical-reference-for-Microsoft-Intune.md"
+  ],
+  "45977b4de5ff40c40588bf3d088f9545ef0f66e7": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Terms-and-condition-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "59a8293059387c76269426a02bb77f2994a0db9e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Terms-of-Delegated-Administration-for-Microsoft-Intune.md"
+  ],
+  "bfcb2c95e78110a4f265214e2f01e595d484c09f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Terms-of-Use.md"
+  ],
+  "59c498c1be2eedf49c2be708afe0fa4d60c2db5f": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Third-Party-Software-Notices-and-Information.md"
+  ],
+  "120474412b3ab6061afeefb9b42026d893ef171d": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\TOC.md"
+  ],
+  "dd9376739aabb21241d4cce26c14705d39038474": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Troubleshoot-app-deployment-problems-in-Microsoft-Intune.md"
+  ],
+  "ae011f6f5e48591dab235eeb85f52b21832d3766": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Troubleshoot-client-setup-in-Microsoft-Intune.md"
+  ],
+  "f79215359fa99e222e700f8c7a3714254776f594": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Troubleshoot-company-resource-access-problems-with-Microsoft-Intune.md"
+  ],
+  "f40b0b43c8192f7f6919fd2e0c7c3e51c36db29e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Troubleshoot-device-enrollment-in-Intune.md"
+  ],
+  "d2fa1bd95b4fbb91f0cd1d53c74a38bf7349baab": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Troubleshoot-Endpoint-Protection-in-Microsoft-Intune.md"
+  ],
+  "03e4fad0e0239c30ce3e4187e461b7782c88f83a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Troubleshoot-Microsoft-Intune.md"
+  ],
+  "d3d7fc1fa5394aafdf8e1938d9d1b968af9ed0ad": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Troubleshoot-policies-in-Microsoft-Intune.md"
+  ],
+  "54ae270305d4c9467430ff265ce5b0683257878a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Troubleshoot-software-updates-in-Microsoft-Intune.md"
+  ],
+  "71bc98fa8a6c67ca1847bc015d576fdfb0f03c41": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Understand-your-devices-with-inventory-in-Microsoft-Intune.md"
+  ],
+  "2a6e602fe6e6c4f4cffd6b3e7302f68c01350ab7": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Update-apps-using-Microsoft-Intune.md"
+  ],
+  "31c86060a489128ba8ad81907015000a4542b55b": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Use-conditional-access-with-Intune-and-Configuration-Manager.md"
+  ],
+  "a2a79bdcb51df9637349c279d8e346a747b5c780": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Use-groups-to-manage-users-and-devices-with-Microsoft-Intune.md"
+  ],
+  "07da56ff76bbbb29b8c165876e50d5233b552add": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Use-policies-to-manage-computers-and-mobile-devices-with-Microsoft-Intune.md"
+  ],
+  "19d901da3f988dcbe49e44689b4aebfc56ced8d3": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Using-a-Product-Key-to-Set-Up-a-Customer-Account.md"
+  ],
+  "d02d6d910de5fe4660fd9f9dd69854129f94e535": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Using-the-Intune-Company-Portal-website.md"
+  ],
+  "62997e2191cb344826be41fd7148f2a595d1cd4e": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Using-your-Android-device-with-Intune.md"
+  ],
+  "45a4ef1279d5372f64be498b41662f7de12f1a29": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Using-your-iOS-or-Mac-OS-X-device-with-Intune.md"
+  ],
+  "1e707e5264430b86e256f3edab03e989b7c4407c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Using-your-Windows-device-with-Intune.md"
+  ],
+  "78a507cf5c5710a6fefc0ca147e94baed8dd7639": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Wait-while-your-device-is-being-evaluated.md"
+  ],
+  "a54b0e3925b51e72b246d3d40f6b5ab90dbdcf0a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Ways-to-do-enterprise-mobility.md"
+  ],
+  "0a50946cc4e0f85973f1fc0e15087309e62da9db": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\What-Happens-if-You-Add-a-Personal-Device-to-the-Company-Portal.md"
+  ],
+  "0bfb6dc36209720ef2832869f1a1255a1443d281": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\What-Happens-if-You-Remove-a-Personal-Device-Using-the-Company-Portal.md"
+  ],
+  "03cadb141831ca1a897d608b85af55b385bc17fc": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\What-happens-if-you-reset-a-personal-device-using-the-Company-Portal.md"
+  ],
+  "db96f66091b77abea994763f6e2243f5211b23da": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\What-s-new-in-Microsoft-Intune.md"
+  ],
+  "34b5ca7b9e8905e39ed3d5de8dc570fd85542444": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\What-to-know-before-setting-up-Microsoft-Intune.md"
+  ],
+  "25b645e359930114f486a9a06006f10d37552b8c": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\What-to-tell-your-end-users-about-using-Microsoft-Intune.md"
+  ],
+  "c94641c66e8bec63867028428d48bff5c1133f1a": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Windows-10-configuration-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "37d1ff916099243d9a47af021895961c0a418994": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Windows-10-custom-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "a76de07e927cedf231f7ab3de24033505b8e33a1": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Windows-configuration-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "d7471fd9f165fabd42796b7b1077d9079ad6e0fd": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Windows-PC-management-capabilities-in-Microsoft-Intune.md"
+  ],
+  "e544d1b037e41bb780e4beff78ce14c58ff64832": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Windows-Phone-configuration-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "a2f5ce655b50c1e3728733eb02a14b5bd918b994": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Windows-Phone-custom-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "0861907830284ace5f784db7000cbd476a18b668": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Windows-Team-configuration-policy-settings-in-Microsoft-Intune.md"
+  ],
+  "5bfdc74ad099cb9b635958f981e74f3178536692": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Wipe-managed-company-app-data-with-Microsoft-Intune.md"
+  ],
+  "4488c53ee15d51ceddeb4368706c6e2acf274210": [
+    "CapsToOps0129_MicrosoftIntune\\v1\\Topic\\Your-computer-is-already-enrolled.md"
+  ]
+}

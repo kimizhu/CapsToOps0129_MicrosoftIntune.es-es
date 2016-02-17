@@ -1,0 +1,1 @@
+Para obtener asistencia técnica en Estados Unidos, póngase en contacto con los servicios de soporte técnico de Microsoft en el (800) 892-5234 entre las 06:00 y 18:00 hora del Pacífico, de lunes a viernes, excepto festivos. En Canadá, marque el (905) 568-9641 entre las 8.00 y las 20.00, hora de la Costa Este, de lunes a viernes, excluidos los festivos.

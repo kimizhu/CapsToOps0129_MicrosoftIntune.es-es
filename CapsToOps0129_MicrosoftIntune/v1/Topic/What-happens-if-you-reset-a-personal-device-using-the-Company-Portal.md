@@ -1,0 +1,18 @@
+---
+title: Implicaciones de restablecer un dispositivo personal mediante el portal de empresa
+ms.custom: na
+ms.reviewer: na
+ms.service: microsoft-intune
+ms.suite: na
+ms.tgt_pltfrm: na
+ms.topic: article
+ms.assetid: acd288a0-2157-47bd-8e50-88baa7405483
+---
+# Implicaciones de restablecer un dispositivo personal mediante el portal de empresa
+Si se usa el portal de empresa para restablecer un dispositivo personal, es posible que se eliminen algunas aplicaciones y configuraciones del dispositivo, incluidos algunos de sus datos personales. Lo que sucede en cada dispositivo depende del tipo de dispositivo y de cómo se usa, tal como se describe en la tabla siguiente.
+
+|Administración y configuración de dispositivos|Tipo de dispositivo|
+|--------------------------------------------------|-----------------------|
+|El administrador de TI administra el dispositivo móvil|**Android**<br /><br />Si se restablece un dispositivo Android, ocurre lo siguiente:<br /><br />-   El dispositivo deja de aparecer en el portal de empresa.<br />-   Se eliminará su cuenta de correo electrónico de empresa y también se eliminará el correo electrónico que no haya guardado.<br /><br />**Dispositivos iOS (iPhone y iPad)**<br /><br />-   El dispositivo deja de aparecer en el portal de empresa.<br />-   El portal de empresa intenta restablecer la configuración predeterminada de fábrica del dispositivo. Se eliminarán los datos personales, las aplicaciones y la configuración.<br /><br />**Windows Phone 8.1 y Windows Phone 8**<br /><br />-   El dispositivo deja de aparecer en el portal de empresa.<br />-   El portal de empresa intenta restablecer la configuración predeterminada de fábrica del dispositivo. Se eliminarán los datos personales, las aplicaciones y la configuración.<br /><br />**Windows RT**<br /><br />No se puede restablecer un dispositivo Windows RT a menos que se utilice para correo electrónico únicamente.|
+|El dispositivo solo puede acceder al correo electrónico de la empresa|**Android**<br /><br />-   El dispositivo deja de aparecer en el portal de empresa.<br />-   El portal de empresa intenta restablecer la configuración predeterminada de fábrica del dispositivo. Se eliminarán todos los datos personales y la configuración.<br /><br />**Dispositivos iOS (iPhone y iPad)**<br /><br />-   El dispositivo deja de aparecer en el portal de empresa.<br />-   Se eliminará su cuenta de correo electrónico de empresa y también se eliminará el correo electrónico que no haya guardado.<br /><br />**Windows Phone 8.1 y Windows Phone 8**<br /><br />-   El dispositivo deja de aparecer en el portal de empresa.<br />-   Se eliminará su cuenta de correo electrónico de empresa y también se eliminará el correo electrónico que no haya guardado.<br /><br />**Windows RT**<br /><br />-   El dispositivo deja de aparecer en el portal de empresa.<br />-   Se eliminará su cuenta de correo electrónico de empresa y también se eliminará el correo electrónico que no haya guardado.<br /><br />**Equipos con Windows Vista o Windows 7**<br /><br />No se puede restablecer un equipo que ejecute Windows 7 o versiones anteriores, y que se utilice para correo electrónico únicamente.<br /><br />**Equipos con Windows 8.1 y Windows 8**<br /><br />-   El dispositivo deja de aparecer en el portal de empresa.<br />-   Se eliminará su cuenta de correo electrónico de empresa y también se eliminará el correo electrónico que no haya guardado.|
+|PCs y portátiles|**Equipos con Windows 8.1 y Windows 8**<br /><br />No se puede restablecer un equipo con Windows 8 o Windows 8.1 a menos que se utilice para correo electrónico únicamente.<br /><br />**Equipos con Windows Vista o Windows 7**<br /><br />No se puede restablecer un equipo con Windows 7 o anterior.|

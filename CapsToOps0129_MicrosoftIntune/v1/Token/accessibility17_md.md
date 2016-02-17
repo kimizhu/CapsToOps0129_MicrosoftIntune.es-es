@@ -1,0 +1,1 @@
+Para obtener más información sobre las mejoras que supone la tecnología de accesibilidad de los equipos para la vida de las personas con discapacidades, vea el sitio web de Microsoft [Accessibility (Accesibilidad)](http://go.microsoft.com/fwlink/?LinkId=8431).

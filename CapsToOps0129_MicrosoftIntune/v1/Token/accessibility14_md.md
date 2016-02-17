@@ -1,0 +1,1 @@
+Para obtener servicio de atención al cliente, póngase en contacto con Microsoft Sales Information Center en el (800) 892-5234 entre las 6.30 y las 17.30, hora del Pacífico, de lunes a viernes, excluidos los festivos.

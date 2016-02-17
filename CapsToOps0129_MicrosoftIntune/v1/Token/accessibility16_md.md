@@ -1,0 +1,1 @@
+Los servicios de soporte técnico de Microsoft están sujetos a los precios, términos y condiciones vigentes en el momento de utilizar el servicio.

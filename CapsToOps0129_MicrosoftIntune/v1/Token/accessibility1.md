@@ -1,0 +1,1 @@
+<Token xmlns:xlink="http://www.w3.org/1999/xlink">Microsoft se compromete a hacer que sus productos y servicios sean más fáciles de usar. Las secciones siguientes proporcionan información sobre las características, productos y servicios que hacen que Microsoft® Windows® sea más accesible para personas con discapacidades:</Token>
